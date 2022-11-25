@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Rebelde"},
+                  "SongTitle": {"S": "Nuestro Amor"},
+                  "AlbumTitle": {"S": "Nuestro Amor"},
+                  "SongYear": {"S": "2006"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Rebelde"},
+                  "SongTitle": {"S": "Celestial"},
+                  "AlbumTitle": {"S": "Ser O Parecer"},
+                  "SongYear": {"S": "2007"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Rebelde"},
+                  "SongTitle": {"S": "Ser o Parecer"},
+                  "AlbumTitle": {"S": "Ser O Parecer"},
+                  "SongYear": {"S": "2007"}
                 }
             }
         }
